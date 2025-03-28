@@ -7,7 +7,6 @@ A Simple Repository Where I'll Post Offsets
 
 ## 📂 Offsets
 ```yaml
-VERSION = 1.0
 GWORLD = 0x1771C988
 Levels = 0x1A8
 PersistentLevel = 0x38
