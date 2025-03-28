@@ -1,18 +1,13 @@
 # Fortnite-Offsets
 
 ## 📌 Fortnite Offsets
-A simple repository to store and update Fortnite offsets.
+A Simple Repository Where I'll Post Offsets
 
 ---
 
 ## 📂 Offsets
 ```yaml
-# Offsets.txt (Example Format)
-Offsets:
-  PlayerBase: 0x12345678
-  Health: 0x87654321
-  Shield: 0x11223344
-  Ammo: 0x55667788
+$(cat Offsets.txt)
 ```
 
 ---
