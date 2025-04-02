@@ -7,11 +7,11 @@ A Simple Repository Where I'll Post Offsets
 
 ## 📂 Offsets
 ```yaml
-GWORLD = 0x1771C988
+GWORLD = 0x16F07B88
 Levels = 0x1A8
-PersistentLevel = 0x38
-GameState = 0x190
-OwningGameInstance = 0x208
+PersistentLevel = 0x40
+GameState = 0x188
+OwningGameInstance = 0x200
 DefaultPhysicsVolume = 0x120
 OwningWorld = 0xB8
 WorldSettings = 0x2B0
@@ -56,7 +56,7 @@ ComponentToWorld = 0x1E0
 BoneArray = 0x5C8
 BoneCache = 0x5B8
 RelativeLocation = 0x138
-RelativeRotation = 0x150
+RelativeRotation = 0x148
 ```
 
 ---
