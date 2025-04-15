@@ -68,3 +68,6 @@ Pad598 = 0x5B8
 Spectators = 0xb80
 Pad19e = 0x19e
 NameStructure = 0xb08
+SceneViewState = 0xd0
+ProjectionMatrix = 0x940
+FieldOfView = 0x740
