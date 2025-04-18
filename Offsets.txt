@@ -71,3 +71,5 @@ NameStructure = 0xb08
 SceneViewState = 0xd0
 ProjectionMatrix = 0x940
 FieldOfView = 0x740
+KillScore = 0x1270
+SeasonLevelUIDisplay = 0x1274
